@@ -1,2 +1,3 @@
 # react-search-github
-Created with CodeSandbox
+Created with CodeSandbox  
+勉強のために制作したもの
